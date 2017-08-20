@@ -423,7 +423,7 @@ body > .navbar-collapse {
     background: -webkit-linear-gradient(top, #9368E9 0%, #943bea 100%);
     background: -o-linear-gradient(top, #9368E9 0%, #943bea 100%);
     background: -ms-linear-gradient(top, #9368E9 0%, #943bea 100%);
-    background: linear-gradient(to bottom, #9368E9 0%, #943bea 100%);
+    background: linear-gradient(to bottom, #0f226b  0%, #123ee5 100%);
     background-size: 150% 150%; }
 
 .main-panel {
@@ -1620,7 +1620,7 @@ body > .navbar-collapse {
       margin-top: 5px;
       margin-bottom: 5px; }
   .card .stats {
-    color: #a9a9a9; }
+    color: rgb(190, 7, 18); }
   .card .footer div {
     display: inline-block; }
   .card .author {
@@ -2828,5 +2828,9 @@ body > .navbar-collapse {
 }
 
 .tr-hover:hover{
-  background-color: rgba(255, 119, 0, 0.52);
+  background-color: rgba(125, 188, 227, 0.5);
 }
+
+
+
+
